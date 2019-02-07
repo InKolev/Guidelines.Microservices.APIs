@@ -125,7 +125,7 @@ There are a couple of things you need to consider before you start implementing 
 
 ## Traffic management
 
-Request rate limiting.
+Rate limiting and Request throttling.
 
 Auto-scaling and load balancing based on thresholds or a schedule.  
 
